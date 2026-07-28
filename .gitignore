@@ -1,0 +1,24 @@
+# Environment
+.env
+.env.*
+
+# YOLO Model Files
+*.pt
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Flask Generated Files
+uploads/
+results/
+
+# IDE
+.vscode/
+
+# YOLO Dataset
+dataset/
