@@ -238,7 +238,7 @@ These files are excluded because they contain:
 
 Jaycee Molina
 
-Computer Engineering Student
+Computer Engineer
 
 GitHub:
 https://github.com/JayceeMolina
