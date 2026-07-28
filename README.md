@@ -1,8 +1,8 @@
 # 🍃 Dahon Detection System
 
-An AI-powered leaf detection system using **YOLO Instance Segmentation**, **Flask API**, and **OpenCV** for image-based plant analysis.
+An ML-powered leaf detection system using **YOLO Instance Segmentation**, **Flask API**, and **OpenCV** for image-based plant analysis.
 
-The system allows users to upload an image, runs YOLO segmentation, detects leaf objects, generates segmented output images, and returns detection results through a REST API.
+The system allows users to upload an image, runs YOLO segmentation, detects leaf condition, generates segmented output images, and returns detection results through a REST API.
 
 ---
 
